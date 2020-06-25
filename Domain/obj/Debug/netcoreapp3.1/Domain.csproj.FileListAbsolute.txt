@@ -1,0 +1,9 @@
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Pessoal\Projetos\POCs\CreateSchema\CreateSchema\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
